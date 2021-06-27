@@ -1,3 +1,3 @@
 # CloudMaintenanceMode
 
-jut put it into *app/code* folder
+jut put it into **app/code** folder
