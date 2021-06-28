@@ -5,7 +5,7 @@
  */
 declare(strict_types=1);
 
-namespace Genaker\CloudMaintenanceMode\Rewrite;
+namespace Genaker\CloudMaintenanceMode;
 
 use Magento\Framework\App\Filesystem\DirectoryList;
 use Magento\Framework\Filesystem;
